@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/archlinuxpackages,flask,python,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=archlinuxpackages,flask,python,venv
 
-### ArchLinuxPackages ###
+### ArchLinuxPackages por si un colaborador usa arch ###
 *.tar
 *.tar.*
 *.jar
