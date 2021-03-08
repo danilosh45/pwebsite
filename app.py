@@ -10,6 +10,6 @@ def index():
 def link():
     return render_template("link.html")
 
-@app.route('/main')
+@app.route('/photo')
 def home():
     return render_template("home.html")
